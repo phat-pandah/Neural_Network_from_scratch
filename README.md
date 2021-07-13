@@ -1,1 +1,3 @@
-"Neural Network From Scratch in python" 
+# neural Network from scratch
+-------------------------------
+This repository is to get a deeper understanding of different types of Neural Networks. While some networks, like a basic ANN are almost trivial to implement using libraries (such as tensorflow or PyTorch), implementing them from scratch (using only numpy) is a great way to underdant how they work 'under the hood'.<br><br>The purpose of these notebooks are for me to learn about different types of neural networks. That being said, not all the code is written by me.
